@@ -1,0 +1,2 @@
+(a + b + c) % m is same as	(a % m + b % m + c % m) % m 
+(a * b * c) % m is same as	((a % m) * (b % m) * (c % m)) % m
